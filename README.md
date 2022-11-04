@@ -1,1 +1,1 @@
-# N2B-iEEG-data-formats
+# N2B iEEG Data Formats
